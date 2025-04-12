@@ -73,18 +73,6 @@ Hi, I'm **Prajjawal** — a passionate **Web & App Developer** who loves transfo
 
 ---
 
-## 🔥 GitHub Streak & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=prajjawal&theme=city_light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjawal&theme=react&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 Winner, University Hackathon 2024  
