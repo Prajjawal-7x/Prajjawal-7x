@@ -56,23 +56,6 @@ Hi, I'm **Prajjawal** — a passionate **Web & App Developer** who loves transfo
 
 ---
 
-## 🔖 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **Awesome-App** | Cross-platform mobile app using React Native + Firebase. | [Repo](https://github.com/prajjawal/awesome-app) |
-| **Real-Time Chat** | Real-time chat app using Node.js & Socket.io. | [Repo](https://github.com/prajjawal/realtime-chat) |
-| **Esports Dashboard** | Performance dashboard (Go + D3.js). | [Repo](https://github.com/prajjawal/esports-dashboard) |
-
----
-
-## 📝 Blog
-
-- [Optimizing React Native Performance](https://yourblog.com/react-native-performance)  
-- [Building REST APIs with Go & Express](https://yourblog.com/rest-apis-express-go)
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 Winner, University Hackathon 2024  
